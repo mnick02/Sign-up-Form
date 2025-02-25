@@ -33,14 +33,16 @@ body {
     position: absolute;
     left: 0;
     top: 200px;
-    width: 100px;
+    width: 80px;
     height: auto;
 }
 
 #logo-text {
     font-family: "norseBold";
+    text-align: center;
+    font-size: 5rem;
     position: absolute;
-    left: 150px;
+    left: 0;
     top: 200px;
     color: black;
     border: green solid 2px;

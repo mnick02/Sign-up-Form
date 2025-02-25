@@ -29,7 +29,7 @@ body {
 }
 
 #odin {
-    border: red solid 3px;
+    /*border: red solid 3px;*/
     position: absolute;
     left: 80px;
     top: 210px;
@@ -46,8 +46,8 @@ body {
     left: 0;
     top: 200px;
     color: white;
-    border: green solid 2px;
-    background-color: rgba(0, 128, 0, 0.34);
+    /*border: green solid 2px;*/
+    background-color: rgba(0, 0, 0, 0.34);
     width: 100%;
     height: auto;
     padding: 20px;

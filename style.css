@@ -16,10 +16,17 @@ body {
     width: var(--img-size);
 }
 
-img {
+#conard {
+    position: relative;
     width: var(--img-size);
     height: 100%;
     object-fit: cover;
+}
+
+#odin {
+    border: red solid 3px;
+    position: absolute;
+    left: 0;
 }
 
 #right-side {
@@ -28,10 +35,4 @@ img {
     top: 0;
     bottom: 0;
     right: 0;
-}
-
-header {
-    background-color: #f3f3f3;
-    font-weight: bold;
-    padding: 40px, 20px;
 }

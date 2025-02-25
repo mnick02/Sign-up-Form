@@ -1,3 +1,7 @@
+:root {
+    --img-size: 450px;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -9,18 +13,18 @@ body {
     left: 0;
     top: 0;
     bottom: 0;
-    width: 330px;
+    width: var(--img-size);
 }
 
 img {
-    width: 330px;
+    width: var(--img-size);
     height: 100%;
     object-fit: cover;
 }
 
 #right-side {
     position: absolute;
-    left: 330px;
+    left: var(--img-size);
     top: 0;
     bottom: 0;
     right: 0;
@@ -29,4 +33,5 @@ img {
 header {
     background-color: #f3f3f3;
     font-weight: bold;
+    padding: 40px, 20px;
 }

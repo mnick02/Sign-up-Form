@@ -31,8 +31,8 @@ body {
 #odin {
     border: red solid 3px;
     position: absolute;
-    left: 0;
-    top: 200px;
+    left: 80px;
+    top: 185px;
     width: 80px;
     height: auto;
 }
@@ -47,6 +47,7 @@ body {
     color: black;
     border: green solid 2px;
     width: 100%;
+    height: auto;
 }
 
 

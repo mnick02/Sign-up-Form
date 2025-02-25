@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "norseBold";
+    src: url(Norse-Bold.otf);
+}
+
 :root {
     --img-size: 450px;
 }
@@ -27,7 +32,22 @@ body {
     border: red solid 3px;
     position: absolute;
     left: 0;
+    top: 200px;
+    width: 100px;
+    height: auto;
 }
+
+#logo-text {
+    font-family: "norseBold";
+    position: absolute;
+    left: 150px;
+    top: 200px;
+    color: black;
+    border: green solid 2px;
+    width: 100%;
+}
+
+
 
 #right-side {
     position: absolute;

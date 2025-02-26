@@ -60,6 +60,15 @@ body {
     box-sizing: border-box;
 }
 
+#credits {
+    position: absolute;
+    left: 100px;
+    top: 95%;
+
+    color: white;
+    font-size: 0.9rem;
+}
+
 #right-side {
     position: absolute;
     left: var(--img-size);
@@ -182,6 +191,15 @@ input:invalid {
 .login a:hover {
     color: #68abe9;
 }
+
+#credits a:link {
+    color: white;
+}
+
+#credits a:visited {
+    color: white;
+}
+
 
 
 

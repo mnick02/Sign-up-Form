@@ -86,6 +86,7 @@ legend {
     display: flex;
     flex-direction: row;
     gap: 50px;  
+    margin-bottom: 20px;
 }
 
 .input-styles {

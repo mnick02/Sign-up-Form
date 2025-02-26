@@ -113,7 +113,10 @@ fieldset {
     color: rgb(90, 90, 90);
 }
 
-.input-styles input[type="text"] {
+.input-styles input[type="text"],
+ input[type="email"],
+ input[type="tel"],
+ input[type="password"] {
     background-color: #FFFFFF;
     border: 1px solid #E5E7EB;
     border-radius: 3px;

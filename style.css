@@ -162,7 +162,26 @@ input:invalid {
     background-color: #5b97d0;
 }
 
+.login {
+    font-weight: bold;
+    margin-left: 40px;
+}
 
+.login a {
+    text-decoration: none;
+}
+
+.login a:link {
+    color: #61a3e0;
+}
+
+.login a:visited {
+    color: #5b97d0;
+}
+
+.login a:hover {
+    color: #68abe9;
+}
 
 
 

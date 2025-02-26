@@ -82,7 +82,7 @@ legend {
     margin-bottom: 20px;
 }
 
-.firstandlast {
+.formstyle {
     display: flex;
     flex-direction: row;
     gap: 50px;  

@@ -135,7 +135,20 @@ input:invalid {
     border: 1.5px solid red;
 }
 
+.btn button {
+    font-weight: bold; 
+    font-size: 1.02rem;
 
+
+    background-color: #68aff0;
+    color: white;
+   
+    border: none;
+    border-radius: 5px;
+
+    padding: 10px 25px;
+    cursor: pointer;
+}
 
 
 

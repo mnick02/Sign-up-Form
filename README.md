@@ -1,1 +1,3 @@
-# Sign-up-Form
+The goal of this project was to test skills in html and css, specifically working with and styling forms. At the end of this project I will have demonstrated proficency in working with these skills by creating a sign-up page.
+
+Having now completed the project, a aspect that stood out to me is how in depth the styling of forms can be. How much you can change from the label, border, whether its active or not, is incredibly useful and can make for a better UX.

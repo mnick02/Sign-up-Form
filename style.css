@@ -140,7 +140,7 @@ input:invalid {
     font-size: 1.02rem;
 
 
-    background-color: #68aff0;
+    background-color: #61a3e0;
     color: white;
    
     border: none;
@@ -148,6 +148,14 @@ input:invalid {
 
     padding: 10px 25px;
     cursor: pointer;
+}
+
+.btn button:hover {
+    background-color: #68abe9;
+}
+
+.btn button:active {
+    background-color: #5b97d0;
 }
 
 

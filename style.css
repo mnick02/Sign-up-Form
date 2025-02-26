@@ -135,6 +135,10 @@ input:invalid {
     border: 1.5px solid red;
 }
 
+.btn {
+    margin-left: 40px;
+}
+
 .btn button {
     font-weight: bold; 
     font-size: 1.02rem;

@@ -109,7 +109,17 @@ fieldset {
     display: block;
     font-family: 'Lato', Helvetica, sans-serif;
     font-weight: bold;
+    font-size: 0.7rem;
     color: rgb(90, 90, 90);
+}
+
+.input-styles input[type="text"] {
+    background-color: #FFFFFF;
+    border: 1px solid #E5E7EB;
+    border-radius: 3px;
+    width: 100%;
+    padding: 7px;
+    font-size: 1.02rem;
 }
 
 

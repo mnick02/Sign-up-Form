@@ -125,6 +125,11 @@ fieldset {
     font-size: 1.02rem;
 }
 
+input:focus {
+    outline-style: solid;
+    outline-color: blue;
+    box-shadow: 3px 3px 5px rgb(219, 218, 218);
+}
 
 
 

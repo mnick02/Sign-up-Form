@@ -61,12 +61,14 @@
                 <div class="formstyle">
                     <div class="input-styles">
                         <label for="pwd">PASSWORD</label>
-                        <input type="password" id="pwd" name="pwd" required>
+                        <input type="password" id="pwd" name="pwd" 
+                        pattern=".{8,12}" placeholder="8-12 characters in length" required>
                     </div>
         
                     <div class="input-styles">
                         <label for="pwd-cfrm">CONFIRM PASSWORD</label>
-                        <input type="password" id="pwd-cfrm" name="pwd-cfrm" required>
+                        <input type="password" id="pwd-cfrm" name="pwd-cfrm" 
+                        pattern=".{8,12}" required>
                     </div>
                 </div>
             </fieldset>
